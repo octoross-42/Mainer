@@ -1,0 +1,7 @@
+if les arguments donnent des trucs possibles -> selon si c'est chiant ou pas if particulier
+		-> if_str
+
+
+prototype -> arg 
+	pour chaque arg -> déclaration selon type (pas de discrimination pour les plus simples) + les free (avec les boucles)
+					ajout des libraries dans main_args + stdio pour printf si pas déjà déclaré (le truc formaté est sans commentaires donc no worry)
